@@ -51,10 +51,6 @@ backend/uploads/
 backend/*.db
 backend/*.sqlite
 
-# Environment files (uncomment if you want to ignore all .env files)
-# .env
-# backend/.env
-
 # IDE
 .vscode/
 .idea/
